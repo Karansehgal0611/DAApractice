@@ -1,5 +1,4 @@
 # include<stdio.h>
-# include<conio.h>
 # include<string.h>
 float x[20];tp= 0;
 void knapsack(int n, float weight[], float profit[], float capacity)
