@@ -61,7 +61,6 @@ This repository is a comprehensive collection of algorithm implementations creat
 
 ### 📦 Module 6: Randomized Algorithms
 - `randomized_quick_sort.c` – Randomized QuickSort
-- 
 ---
 
 ### 📦 Module 7: Complexity and Approximation
